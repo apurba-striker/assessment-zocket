@@ -1,29 +1,41 @@
-# Zocket Frontend
 
-## About this project
+## Live Link 
 
-This is the frontend for Zocket assignment.
-Technologies used to develop this are
+https://yashoda-zocket-assignment.netlify.app/all
 
-1. React.js for FrontEnd
-2. Node.js, Express.js as Backend
-3. REDIS as a database
+# Ad Campaign app
 
-[Link](https://github.com/debsishu/zocket-api) to backend repository.
+A app made with react, tailwind.
 
-## Functional Features
 
-1. List of existing ad campaigns fetched from api
-2. Filtering based on platform, status and time
-3. Search from table
-4. Toggle for pausing the campaigns
-5. Delete the campaigns
-6. Create new ad campaign
-7. User products fetched from api
-8. New ad campaigns are added to DB via api
+## Frontend Libraries
+
+- React Router DOM : For routing different pages on the app to different component
+- react-icons : For component based icons
+- useContext : State management for react
 
 ## Run Locally
 
-1. Fork this github repository
-2. Run `pnpm install` to install the dependencies
-3. To run locally use `pnpm dev`
+Clone the project
+
+```bash
+https://github.com/yashodaAgarwal/Zocket
+```
+
+Go to the project directory
+
+```bash
+  cd zocket
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the Client
+
+```bash
+  npm run  start
+```

@@ -2,7 +2,13 @@
 @tailwind components;
 @tailwind utilities;
 
-*,
-input {
-  font-family: "Eudoxus Sans", sans-serif;
+* {
+  font-family: "Questrial", sans-serif !important;
+  /* box-sizing: border-box !important; */
+  letter-spacing: 0.2px !important;
+}
+
+.ant-select-selection-placeholder {
+  opacity: 1 !important;
+  color: black !important;
 }
