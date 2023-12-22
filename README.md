@@ -1,7 +1,4 @@
 
-## Live Link 
-
-https://yashoda-zocket-assignment.netlify.app/all
 
 # Ad Campaign app
 
@@ -19,14 +16,12 @@ A app made with react, tailwind.
 Clone the project
 
 ```bash
-https://github.com/yashodaAgarwal/Zocket
+https://github.com/apurba-striker/assignment-zocket.git
 ```
 
 Go to the project directory
 
-```bash
-  cd zocket
-```
+
 
 Install dependencies
 
