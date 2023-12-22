@@ -1,8 +1,6 @@
 
 
-# Ad Campaign app
-
-A app made with react, tailwind.
+#zocket assignment
 
 
 ## Frontend Libraries
@@ -10,6 +8,7 @@ A app made with react, tailwind.
 - React Router DOM : For routing different pages on the app to different component
 - react-icons : For component based icons
 - useContext : State management for react
+- tailwind : customise css 
 
 ## Run Locally
 
