@@ -16,7 +16,8 @@ A app made with react, tailwind.
 Clone the project
 
 ```bash
-https://github.com/apurba-striker/assignment-zocket.git
+https://github.com/apurba-striker/assessment-zocket.git
+
 ```
 
 Go to the project directory
